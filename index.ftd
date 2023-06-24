@@ -18,7 +18,7 @@ border-radius.px: 20
 spacing.fixed.px: 50
 
 -- ftd.image:
-src= https://drive.google.com/file/d/1XdtKNsjxHu5406zJfJ5CS0iU_nA8D2rI/preview
+src= https://github.com/SamriddhVerma/FAASTN/blob/main/assets/background.jpg
 height: 480
 width: 640
 border-radius.px: 20
