@@ -18,7 +18,7 @@ border-radius.px: 20
 spacing.fixed.px: 50
 
 -- ftd.image:
-src: https://picsum.photos/200/300/?blur=2.jpg
+src= https://drive.google.com/file/d/1XdtKNsjxHu5406zJfJ5CS0iU_nA8D2rI/preview
 height: fill-container
 border-radius.px: 20
 
