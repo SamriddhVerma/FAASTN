@@ -5,13 +5,13 @@ body description: Could be a Default Body
 -- ftd.column:
 width: fill-container
 height: fill-container
-background.solid: #eee
+background.solid: black
 align-content: center
 
 -- ftd.row:
 width.fixed.px: 650
 height.fixed.px: 350
-background.solid: #c5dff5
+background.solid: #f05c51
 border-width.px: 3
 padding.px: 20
 border-radius.px: 20
